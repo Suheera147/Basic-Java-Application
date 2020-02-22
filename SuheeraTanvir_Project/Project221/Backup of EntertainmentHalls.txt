@@ -1,0 +1,40 @@
+111*PrestigeCinema*Ankara*400*cinema*4*5
+1*Pacific Rim*4.5*11/45/18*120*6.5*SciFi
+2*The Conjuring*4.5*11/12/19*130*5.5*Horror
+3*Insidious*3.5*11/10/20*140*4.5*Horror
+4*Forrest Gump*4.0*11/13/17*150*7.5*Comedy
+5*Frozen*4.0*11/11/16*120*5.5*Animation
+222*AnkuvaCinema*Istanbul*500*cinema*3*3
+6*Shawshank Redemption*5.5*11/09/15*110*6.5*Action
+7*BlackFish*4.5*11/23/09*100*3.5*Documentary
+8*Hotel Transylvania*4.0*11/04/10*120*5.5*Animation
+333*Cinemaximum*Ankara*350*cinema*2*4
+9*Shutter Island*3.5*11/23/11*120*7.5*Mystery
+10*Top Gun*5.5*11/26/18*140*8.5*Action
+11*Titanic*3.5*11/24/18*145*8.5*Romance
+12*Pathfinder*2.5*11/22/15*130*1.5*Adventure
+444*BlueCinemas*Trabzon*450*cinema*5*7
+4*Forrest Gump*4.0*11/13/17*150*7.5*Comedy
+5*Frozen*4.0*11/11/16*120*5.5*Animation
+6*Shawshank Redemption*5.5*11/09/15*110*6.5*Act
+12*Pathfinder*2.5*11/22/15*130*1.5*Adventure
+13*The Hunger Games*3.5*11/09/12*120*4.5*Action
+14*Holes*4.0*11/01/05*175*3.5*Comedy
+15*Taken*4.5*11/04/08*180*7.5*Thriller
+555*PixiePictures*Izmir*350*cinema*4*6
+6*Shawshank Redemption*5.5*11/09/15*110*6.5*Action
+9*Shutter Island*3.5*11/23/11*120*7.5*Mystery
+10*Top Gun*5.5*11/26/18*140*8.5*Action
+12*Pathfinder*2.5*11/22/15*130*1.5*Adventure
+14*Holes*4.0*11/01/05*175*3.5*Comedy
+15*Taken*4.5*11/04/08*180*7.5*Thriller
+666*Studio Fax*Ankara*200*theatre*RisingSun Productions*2
+16*Funnies*3.5*TDK group*50*20*Comedy
+17*HiEveryone*5.5*POC group*80*18*Life
+777*Drama Studio ABC*Istanbul*350*theatre*Pretty Productions*3
+18*WE ARE YOUNG*6.5*Busy Actors*100*43*Comedy
+19*Honey Bunny*7.5*YellowSun*70*59*Children
+20*Life is Short*3.5*AMC group*65*30*Tragedy
+888*Red Curtains*Izmir*200*theatre*XYZ Productions*2
+16*Funnies*3.5*TDK group*50*20*Comedy
+19*Honey Bunny*7.5*YellowSun*70*59*Children
